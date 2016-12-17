@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Election game based off a project I did in high school
 
 # Main loop
