@@ -24,4 +24,5 @@ class Board:
 		- Add MOVE PLAYER function
 		- Election Road tiles
 		- Customizable player inputs
+		- Probability moderators
 	"""
