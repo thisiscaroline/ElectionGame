@@ -13,10 +13,6 @@ def main():
 	newBoard = Board(p1, p2)
 	newBoard.printIt()
 
-	
-	
-	
-
 # Start program from main
 if __name__ == '__main__':
 	main()
