@@ -7,6 +7,7 @@ class Player:
 		self.name = name
 		self.party = party
 		EVs = 0
+		position = 0			# Corresponds to Count
 		self.probGen = 1.0		# All state probability
 		self.probHome = 1.25	# Home state prob.
 		self.probOR = 1.0		# Oregon prob.
